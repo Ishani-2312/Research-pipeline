@@ -1,6 +1,13 @@
-# Quantitative Analysis of Dihedral Angle Variability in Protein Structures
+"# Protein Conformational Analysis" 
+# Protein Conformational Analysis Pipeline
 
-This repository contains the pipeline and scripts used in the study titled "Quantitative Analysis of Dihedral Angle Variability and Structural Compensation in Diverse Protein Families." Please note that the data, results, and figures are not available in this repository as they are part of an unpublished work.
+This pipeline quantifies conformational variability in protein families using Shannon Entropy and correlates it to various metrics average RMSD, B-factors and relative SASA.
 
-## Usage
-The provided scripts can be used to analyze protein dihedral angles and entropy once appropriate input data is provided.
+## System Requirements
+- Python 3.x
+- PyMOL
+- BioPython
+- Required Python libraries (see `requirements.txt`)
+
+## Installation
+1. Clone the repository:
