@@ -1,5 +1,9 @@
+pymol
+biopython
 numpy
+pandas
 scipy
-Bio
 matplotlib
-PyMOL
+seaborn
+argparse
+openpyxl
