@@ -16,5 +16,5 @@ Please cite this work if you use the pipeline in your research
 
 
 ## Acknowledgements
-This pipeline was developed as part of a M.Sc. research project at Savitribai Phule Pune University, PUNE, INDIA. Special thanks to Dr. Shekhar C. Mande and Dr. Payel Ghosh.
+This pipeline was developed as part of a M.Sc. research project at Bioinformatics Centre, Savitribai Phule Pune University, PUNE, INDIA. Special thanks to Dr. Shekhar C. Mande and Dr. Payel Ghosh.
 
